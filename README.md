@@ -1,4 +1,4 @@
-![w:40% h:50%](http://i.imgur.com/y8g506n.png?1)
+![](http://i.imgur.com/y8g506n.png?1)
 
 # Julius
 
