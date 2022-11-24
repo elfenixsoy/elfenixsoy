@@ -1,7 +1,5 @@
 ![](http://i.imgur.com/y8g506n.png?1)
 
-# Julius
-
 <h1 align="center">Hi 👋, I'm Julio C.</h1>
 <h3 align="center">Me apasiona el análisis de la información</h3>
 
