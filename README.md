@@ -3,7 +3,7 @@
 # Julius
 
 <h1 align="center">Hi 👋, I'm Julio C.</h1>
-<h3 align="center">Me apasiona en el análisis de la información</h3>
+<h3 align="center">Me apasiona el análisis de la información</h3>
 
 
 ## 🌐 Socials:
